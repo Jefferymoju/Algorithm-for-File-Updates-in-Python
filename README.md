@@ -44,6 +44,4 @@ This project demonstrates:
 ---
 
 ## 📂 Files  
-- `allow_list.txt` → Original file containing IPs with access.  
-- `remove_list.txt` → File with IPs to be removed.  
-- `update_script.py` → Python script that performs the updates.  
+📄 [Algorithm For File Updates In Python](doc/Algorithm_for_file_updates_in_Python.pdf)  
